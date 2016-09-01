@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+
+  "name": "Order Hyy Food",
+  "description": "order hyy supper automatically by chrome extension",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "food.png"
+  },
+  "permissions": [
+    "activeTab",
+    "tabs", "<all_urls>"
+  ],
+  "background": {
+      "scripts": ["orderFood.js"],
+      "persistent": true
+  },
+  "icons": {
+      "48": "food.png"
+  }
+}
