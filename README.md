@@ -1,6 +1,9 @@
 # Chrome-Extension-Order-Supper
 order hyy supper automatically by chrome extension
 
+####需要改姓名，默认中午12点－1点订晚饭，要求在该时间段内chrome开着且插件不被关闭
+
+
 ###使用方法：
 1. clone项目
 2. 配置参数
