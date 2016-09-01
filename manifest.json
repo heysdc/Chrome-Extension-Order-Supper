@@ -4,7 +4,7 @@
   "name": "Order Hyy Food",
   "description": "order hyy supper automatically by chrome extension",
   "version": "1.0",
-
+  "homepage_url": "https://www.wenjuan.com/s/Vf6Vze/",
   "browser_action": {
     "default_icon": "food.png"
   },

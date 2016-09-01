@@ -10,10 +10,9 @@ order hyy supper automatically by chrome extension
 3. 打开chrome浏览器
 4. 进入chrome://extensions/
 5. 开启开发者模式
-6. 点击加载已解压的扩展程序
-7. 选中文件夹Chrome-Extension-Order-Supper
-8. 启用
+6. 点击加载已解压的扩展程序, 选择文件夹Chrome-Extension-Order-Supper
+7. 启用该插件
 
 ###需要配置的参数
 1. go.js的name：订餐人姓名
-2. orderFood.js的orderFoodHour：几点订餐
+2. orderFood.js的orderFoodHour：几点订餐 （默认12点－1点）
