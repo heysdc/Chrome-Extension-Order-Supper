@@ -2,7 +2,7 @@
 var foodUrl = 'https://www.wenjuan.com/s/Vf6Vze/'
 var orderFoodHour = 12
 var interval = 3600000
-var closeTime = 5000
+var closeTime = 10000
 
 var closeWindow = function () {
   setTimeout(function () {
