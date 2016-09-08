@@ -1,5 +1,7 @@
 # Chrome-Extension-Order-Supper
-order hyy supper automatically by chrome extension
+
+##Chrome插件，其本质为：突破页面js权限限制，调用chrome接口进行打开页面，自动在该页面运行js脚本，并关闭该页面
+##Chrome Extensions: open a new page, run js on it automatically and close it
 
 ####需要改姓名，默认中午12点－1点订晚饭，要求在该时间段内chrome开着且插件不被关闭，订饭期间会弹出页面，10秒后页面自动关闭
 
