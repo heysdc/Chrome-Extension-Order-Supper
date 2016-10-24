@@ -8,10 +8,10 @@ function test () {
       return false
     }
     input.value = name
-  }, 2000)
+  }, 4000)
   setTimeout(function () {
     var btn = document.getElementById('next_button')
     btn.click()
-  }, 3000)
+  }, 8000)
 }
 test()
